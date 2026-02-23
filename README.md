@@ -16,7 +16,7 @@
  🌍 Languages: *English | Italian | Japanese*
 
 
- <h3 align = "center" > Thank you for your time. </h3>
+ <h3 align = "center" > Th×nk yo→ for y+ur t♪me. </h3>
 
 
 
