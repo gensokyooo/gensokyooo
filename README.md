@@ -1,21 +1,22 @@
-# Hi there! 🙌
+ # Hey there 👋
 
-## About me:
+## 👤 About me:
 
-### **Name:** Vincenzo
+### **Name:** Vincenzo 
 
 ### **Education:** University of Parma, Italy - Computer Science
 
 ### **Skillset:** C++, Python, SQL, HTML, CSS & Java
 
 
- ## Passions:
+ ## 🎶 Personal interests:
 
- ### Anime, Japan, Art & Music
+ ### Anime, Japan, Art & Music.
 
- ![my image](./thumb-1920-1211443.jpg)
+ 🌍 Languages: *English | Italian | Japanese*
 
- 
-  
 
-🌍 Languages: English | Italian | Japanese
+ <h3 align = "center" > Thank you for your time. </h3>
+
+
+
