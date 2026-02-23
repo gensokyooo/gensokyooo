@@ -13,6 +13,8 @@
 
  ### Anime, Japan, Art & Music
 
+ ![my image](./thumb-1920-1211443.jpg)
+
  
   
 
