@@ -1,11 +1,19 @@
-##Hi there!
+# Hi there! 🙌
 
-I'm a Computer Science Undergrad in Italy, currently learning:
-- Algorithms & Data Structure
-- C++
-- Python
-- SQL
-- HTML & CSS
+## About me:
 
-I speak English, Italian and Japanese.
-Looking forward to it.
+### **Name:** Vincenzo
+
+### **Education:** University of Parma, Italy - Computer Science
+
+### **Skillset:** C++, Python, SQL, HTML, CSS & Java
+
+
+ ## Passions:
+
+ ### Anime, Japan, Art & Music
+
+ 
+  
+
+🌍 Languages: English | Italian | Japanese
