@@ -16,7 +16,7 @@
  🌍 Languages: *English | Italian | Japanese*
 
 
- <h3 align = "center" > Th×nk yo→ for y+ur t♪me. </h3>
 
+![gif] (https://x.com/i/status/2026317463353266339)
 
 
