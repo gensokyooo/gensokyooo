@@ -17,6 +17,6 @@
 
 
 
-![gif] (https://x.com/i/status/2026317463353266339)
+![gif] (twitter-gif-2026317463353266339_699ef7dd53e12.gif)
 
 
