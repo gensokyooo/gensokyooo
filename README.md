@@ -6,7 +6,7 @@
 
 ### **Education:** University of Parma, Italy - Computer Science
 
-### **Skillset:** C++, Python, SQL, HTML, CSS & Java
+### **Stack:** C++, Python 
 
 
  ## 🎶 Personal interests:
