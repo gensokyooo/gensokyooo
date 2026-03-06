@@ -6,7 +6,7 @@
 
 ### **Education:** University of Parma, Italy - Computer Science
 
-### **Stack:** C++, Python 
+### **Stack:** C++, Postgresql
 
 
  ## 🎶 Personal interests:
