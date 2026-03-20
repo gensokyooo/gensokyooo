@@ -5,7 +5,7 @@
 - C++
 - Algorithms & Data Structures
 - SQL / Databases
-- Computer Architecture </p>
+- Cloud Systems </p>
 
 ## What I'm doing right now
 
