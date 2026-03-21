@@ -10,8 +10,7 @@
 ## What I'm doing right now
 
 - Practicing C++ problems daily
-- Learning SQL
-- Understading Cloud Architecture 
+- Learning SQL (PostgreSQL) 
 
 
 <p align = "center" > 
