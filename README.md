@@ -10,8 +10,8 @@
 ## What I'm doing right now
 
 - Practicing C++ problems daily
-- Studying Algorithms 
-- Learning how real software systems work
+- Learning SQL
+- Understading Cloud Architecture 
 
 
 <p align = "center" > 
