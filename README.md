@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science Student in Italy
 <p> Currently studying:
-- C++
+ C++
 - Algorithms & Data Structures
 - SQL / Databases
 - Cloud Systems </p>
