@@ -1,18 +1,21 @@
 # Welcome!
 
 ### I'm a Computer Science Student in Italy
-<p> Currently studying:
- C++ / React / Typescript
-- Algorithms & Data Structures
-- SQL / Databases
-- Cloud Systems </p>
+Current stack: 
+Backend: C++, Java
+Frontend: Typescript, React
+Database: PostgreSQL 
 
 ## What I'm doing right now
 
-- Practicing C++ problems daily
+- Practicing C++ / Java problems daily
 - Learning SQL (PostgreSQL)
 - Understanding React + Typescript
 
+##Languages: 
+- Japanese
+- English
+- Italian
 
 <p align = "center" > 
 </p>
