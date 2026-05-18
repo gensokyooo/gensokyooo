@@ -1,21 +1,19 @@
-# Welcome!
+# Welcome! ✧
 
-### I'm a Computer Science Student in Italy
-Current stack: 
-Backend: C++, Java
-Frontend: Typescript, React
-Database: PostgreSQL 
+### I'm a Computer Science Student in Italy.
+1. Backend: C++, Java
+2. Frontend: Typescript, React
+3. Database: PostgreSQL 
 
-## What I'm doing right now
+## What I'm doing right now 
 
 - Practicing C++ / Java problems daily
-- Learning SQL (PostgreSQL)
 - Understanding React + Typescript
 
-##Languages: 
-- Japanese
-- English
-- Italian
+## Languages 
+- Japanese (Intermediate)
+- English (Fluent)
+- Italian (Native)
 
 <p align = "center" > 
 </p>
