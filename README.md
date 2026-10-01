@@ -2,13 +2,12 @@
 
 ### I'm a Computer Science Student in Italy.
 1. Backend: C++, Java
-2. Frontend: Typescript, React
+2. Frontend: Typescript, React 
 3. Database: PostgreSQL 
 
 ## What I'm doing right now 
 
-- Practicing C++ / Java problems daily
-- Understanding React + Typescript
+- Learning PostgreSQL and Database Structures
 
 ## Languages 
 - Japanese (Intermediate)
